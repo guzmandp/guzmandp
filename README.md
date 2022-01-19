@@ -1,15 +1,7 @@
-<h1 align="center">Olá 👋, sou o Darwin Guzmán Betancourt</h1>
+<h1 align="center">Olá 👋, sou Darwin J. Guzmán Betancourt</h1>
 <h3 align="center">Sou uma pessoa Criativa e dinâmica, com aptidões e atitudes baseadas na responsabilidade, respeito e cordialidade, com capacidade de autogestão, capacidade de assumir desafios e habilidades para coordenar e executar projetos, desenvolver e avaliar investigações, realizar gestão administrativa e operacionais. Trabalho em equipe no escritório e no campo, facilidade de aprendizagem, proativo.</h3>
 
-- 🔭 Atualmente estou trabalhando em **API Restful Javascript com Node.js, Typescript, TypeORM etc**
-
-- 🌱 Atualmente estou aprendendo **Node.js, react, Java, SQLite**
-
-- 👯 Estou procurando colaborar em **Projetos com tecnologias Node.js, react, mongoDB etc**
-
-- 🤝 Estou procurando ajuda em **Java springBoot**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/guzmandp?tab=repositories](https://github.com/guzmandp?tab=repositories)
+- 🌱 Estou aprendendo **Node.js, react, Java, SQLite API Restful Javascript com Node.js, Typescript, TypeORM etc**
 
 - 💬 Pergunte-me sobre **javaScript, Node.js, mongoDB, java springBoot**
 
